@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "string": "cpp"
+  },
+  "args": ["-std=c++17"]
+}
