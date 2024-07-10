@@ -1,1 +1,4 @@
 https://github.com/Rohank1442/File-Encrypt
+The warnings you're seeing don't prevent the code from compiling and running, 
+but it's generally good practice to address them to ensure your code behaves as 
+expected and to maintain clean, warning-free compilations.
